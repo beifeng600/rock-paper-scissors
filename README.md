@@ -21,9 +21,11 @@
 窗口1，输入
 `rasa run actions`
 会输出几条信息，如下图
+![rasa_run_actions](https://user-images.githubusercontent.com/8060693/184768625-60bb2778-c391-4ec3-be2b-b348383ff9e7.png)
 
 
 窗口2，输入
 `rasa shell`
 
 加载模型结束后，会出现提示输入信息。
+![E1UOXHM(QTFSH 4JLNJNPHP](https://user-images.githubusercontent.com/8060693/184769024-5407c4a5-ac00-4c20-9741-dfe0f28fccdb.png)
